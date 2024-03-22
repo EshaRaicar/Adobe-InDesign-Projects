@@ -19,5 +19,5 @@ Showcasing Adobe InDesign projects
 
 # Project 5 - Pizza Menu 
 
-<img width="830" alt="Screenshot " src="https://github.com/EshaRaicar/Adobe-InDesign-Projects/assets/107826151/61707bab-f19b-4529-a764-fc68c585de84">
+<img width="830" alt="Screenshot " src="https://github.com/EshaRaicar/Adobe-InDesign-Projects/assets/107826151/ca86da8a-7e98-4e26-b213-b88ec0e32d6e">
 
